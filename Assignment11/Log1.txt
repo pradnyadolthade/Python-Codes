@@ -1,0 +1,8 @@
+********************************************************************************
+Process Logger :Fri Jun  7 17:36:25 2024
+********************************************************************************
+Duplicates Found:
+The following files are duplicate :
+		C:\Users\Admin\Desktop\Python\Assignments\Assignment11\demo\hello - Copy - Copy - Copy.txt
+		C:\Users\Admin\Desktop\Python\Assignments\Assignment11\demo\hello - Copy - Copy.txt
+		C:\Users\Admin\Desktop\Python\Assignments\Assignment11\demo\hello - Copy.txt
